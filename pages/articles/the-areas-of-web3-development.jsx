@@ -7,7 +7,7 @@ export default function TheAreasOfWeb3Development() {
   return (
     <>
       <Head>
-        <title>DeGatchi | The Areas Of Web3 Development</title>
+        <title>HFVision| The Areas Of Web3 Development</title>
         <meta
           key="Learn about the different fields of development within the Web3 space."
           name="The Areas Of Web3 Development"

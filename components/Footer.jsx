@@ -38,20 +38,20 @@ const Footer = () => {
         <HR />
         <SpaceDiv>
           <Wrap display="flex">
-            <a>2022© DeGatchi</a>
+            <a>2022© HFVision</a>
           </Wrap>
           <Wrap display="flex">
             <IconLink
               target="_blank"
               rel="noopener"
-              href="https://twitter.com/degatchi"
+              href="https://twitter.com/HFVision"
             >
               <FaTwitter />
             </IconLink>
             <IconLink
               target="_blank"
               rel="noopener"
-              href="https://github.com/degatchi"
+              href="https://github.com/HFVision"
             >
               <FaGithub />
             </IconLink>

@@ -5,16 +5,13 @@ const Navbar = () => {
   return (
     <>
       <Wrap>
-        <H1>DeGatchi</H1>
+        <H1>HFVision</H1>
       </Wrap>
 
       <MenuOuter>
         <Nav>
           <Link href="/" passHref>
             <Span>Home</Span>
-          </Link>
-          <Link href="/projects" passHref>
-            <Span>Projects</Span>
           </Link>
           <Link href="/articles" passHref>
             <Span>Articles</Span>

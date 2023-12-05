@@ -28,7 +28,7 @@ const HomePage = () => {
             <ContentInner>
               <Article>
                 <P>
-                  Hi, I'm DeGatchi. Some 20 y/o self-taught anon dev, from
+                  Hi, I'm HFVision. Some 20 y/o self-taught anon dev, from
                   Australia.
                 </P>
 
@@ -46,7 +46,7 @@ const HomePage = () => {
                   and how I treat others. I think open-sourcing my age can give
                   others inspiration that they can do what I do too.
                 </P>
-                <H3>Brief</H3>
+                <H3>HUH</H3>
                 <P>
                   I spend almost everyday building projects i'm interested in. I
                   have no degree, only a high-school education. I tend to work

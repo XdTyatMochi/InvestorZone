@@ -10,7 +10,7 @@ export default function Article() {
   return (
     <>
       <Head>
-        <title>DeGatchi | Articles</title>
+        <title>HFVision| Articles</title>
         <meta key="description" name="description" content="" />
       </Head>
       <ArticlesPage />

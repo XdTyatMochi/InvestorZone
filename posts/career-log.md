@@ -1,4 +1,4 @@
-# Foreword
+<!-- # Foreword
 
 **_Note: Dates are in DD/MM/YEAR format._**
 
@@ -146,7 +146,7 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 
 - Learned about signing and verifying messages w/ a signature + message string to get the public key (signer) -> kind of sparked an interest in ZK proofs but not sure when I would want to use it. Saw an example for verifying I have a priv key without showing the key.
 - Continuing to work on a discord NFT auction bot for TombHeads since I created a Rust alternative for Web3Auth w/ the signature authentication system, hopefully can start distributing after I get it polished up. Going to need to learn Solana smart contracts for a Solana version of the bot.
-- Started to learn about linear algebra (probs going to do **[this](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)** course) + statistics (advice from one of 2 mev anons that reached out when I **[tweeted](https://twitter.com/DeGatchi/status/1553001843219124224)** im starting to do freelancing). Also learned that to be fully successful in crypto you need to know the inner workings of protocols, e.g, their gas process and how the evm works - then optimise via low level programming (Rust + assembly/yul for smart contracts evm) for the millisecond. Definitely want to start learning GETH soon. It makes sense though, everyone I see that I consider at the elite level of crypto tech programming all know the inner workings of the evm in addition to being specialists in their fields (smart contracts || backend stuff). I do think im going in he right direction though, just gotta keep learning everyday.
+- Started to learn about linear algebra (probs going to do **[this](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)** course) + statistics (advice from one of 2 mev anons that reached out when I **[tweeted](https://twitter.com/HFVision/status/1553001843219124224)** im starting to do freelancing). Also learned that to be fully successful in crypto you need to know the inner workings of protocols, e.g, their gas process and how the evm works - then optimise via low level programming (Rust + assembly/yul for smart contracts evm) for the millisecond. Definitely want to start learning GETH soon. It makes sense though, everyone I see that I consider at the elite level of crypto tech programming all know the inner workings of the evm in addition to being specialists in their fields (smart contracts || backend stuff). I do think im going in he right direction though, just gotta keep learning everyday.
 - Bot update: still stuck on the tx execution. For some reason it fails. Not sure if its to do with the broadcasting bc the manual tx propagation worked before the broadcaster impl. All the tests work in Rust + Solidity :/
 
 **07/08/2022**
@@ -177,7 +177,7 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 **10/08/2022**
 
 - Watched **[design patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)** video.
-- Started restructuring my **[metadata-cacher-rs](https://github.com/DeGatchi/metadata-cacher-rs)** w/ implementations (feels and looks so much cleaner).
+- Started restructuring my **[metadata-cacher-rs](https://github.com/HFVision/metadata-cacher-rs)** w/ implementations (feels and looks so much cleaner).
 
 **17/08/2022**
 
@@ -191,7 +191,7 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 
 **23/08/2022**
 
-- Working on this website so that I can continue applying for Rust jobs. I've been using twitter to reach out to people, I think it's a terrific tool to find opportunities. Got markdown files to work on my Next.js **[website](https://www.degatchi.com)**, it makes writing soooo much easier. Articles coming soon!
+- Working on this website so that I can continue applying for Rust jobs. I've been using twitter to reach out to people, I think it's a terrific tool to find opportunities. Got markdown files to work on my Next.js **[website](https://www.HFVision.com)**, it makes writing soooo much easier. Articles coming soon!
 - Received my first freelancing task (ERC-1155 Migrator).
 - Decided not to work on the twitter bot b/c it doesn't seem beneficial atm, instead working on a yield farming bot to practice writing web3 bots. Will be learning to add + remove liquidity programmatically w/ a custom zapper contract.
 - Found this darknet stories **[podcast](https://twitter.com/JackRhysider)**, might be an interesting listen.
@@ -205,7 +205,7 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 
 **09/09/2022**
 
-- Finished my first programming article **[How To Build a MEV Bot](http://degatchi.com/articles/how-to-build-a-mev-bot)**!
+- Finished my first programming article **[How To Build a MEV Bot](http://HFVision.com/articles/how-to-build-a-mev-bot)**!
 - Discord Auction Bot:
   - Modularised the code to make it **_so much cleaner_**. Been spending every day working on it and improving the IPFS cacher.
   - Got the IPFS cacher to work w/ discord commands, displaying all images and jsons in a channel.
@@ -213,10 +213,10 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 
 **22/10/2022**
 
-- Published 2 articles: **[The Areas Of Web3 Development](https://www.degatchi.com/articles/the-areas-of-web3-development)** and **[Entering The Dark Forest](https://www.degatchi.com/articles/entering-the-dark-forest)**.
-- Released **[mev-template-rs](https://github.com/DeGatchi/mev-template-rs)** which gained a lot of traction, leading to people dming me on twitter for job opportunities (2 mev related and 5+ protocol related). Also, it inspired the creation of **[subway-rs](https://github.com/abigger87/subway-rs)** :O
+- Published 2 articles: **[The Areas Of Web3 Development](https://www.HFVision.com/articles/the-areas-of-web3-development)** and **[Entering The Dark Forest](https://www.HFVision.com/articles/entering-the-dark-forest)**.
+- Released **[mev-template-rs](https://github.com/HFVision/mev-template-rs)** which gained a lot of traction, leading to people dming me on twitter for job opportunities (2 mev related and 5+ protocol related). Also, it inspired the creation of **[subway-rs](https://github.com/abigger87/subway-rs)** :O
 - Completed a job trail with STFX from **_21/09/2022_** to **_22/10/2022_**. Built a couple of contracts: Fixed supply ERC20 token, token presale with merkle tree claiming and a vesting contract. Learned about perp markets and integrated with GMX.
-- Built a **[merkle tree generator](https://github.com/DeGatchi/merkle-generator)** with Rust (this bad boy took a while to understand the encoding part but we finally got there). Developed a solid understanding of how they work: generating trees, nodes, proofs and how to verify them. Also, learned more about the keccak256 hash function.
+- Built a **[merkle tree generator](https://github.com/HFVision/merkle-generator)** with Rust (this bad boy took a while to understand the encoding part but we finally got there). Developed a solid understanding of how they work: generating trees, nodes, proofs and how to verify them. Also, learned more about the keccak256 hash function.
 - Learned about different ways to handle multi-threaded data with Rust. One type i'm apply to the discord auction bot is the concept of actors - a single thread that receives and processes mutation requests. Multi-threading is a very interesting concept but i've now experienced why it's such a pain.
 - Working on a generalised mev bot just to build out a bunch of strategies. I finally learned how to keep track of state changes w/o eth_call each block! This will be very useful for a lot of strategies. Started exploring sandwiching and cross-chain mev: how to build an effective sandwicher on non-flashbot chains (very interesting btw).
 - Need to update my website to make it cleaner and easier for people to hire me for freelancing gigs. Having a website is definitely the biggest helper when getting hired, resumes are outdated imo.
@@ -236,6 +236,6 @@ I spend almost everyday building projects I'm interested in. I love to build pro
 - Learned about black/gray/whitebox fuzzing conceptually.
 - Started becoming active in the Huff discord, making new frens, learning how to read bytecode and opcodes - found a passion for low-level programming and reverse engineering.
 - Built the foundation for memory + stack decoding for contract bytecode (tryna get like *jon becker*).
-- build v1 of pure calldata decoder, however wasn't dynamic enough - example found **[here](https://twitter.com/DeGatchi/status/1593979103451189250)**.
-- *jtriley* helped me understand encoding dynaic types (somehow i forgot how it worked lmao), then built a v2 for my calldata decoder on 21/10/2022 that only requires the bytecode input (w/o knowledge of anything else) - example found **[here](https://twitter.com/DeGatchi/status/1594334760683597826)** (quite literally spending 10hrs straight on this to the point where my legs were hurting from sitting too much) - got a lot of interest and a few job offers from this (zk and building an evm on another blockchain).
-- On 21/10/2022, started diving into *jon becker*'s **[heimdall](https://github.com/DeGatchi/heimdall-rs)**, also have plans to learn **revm** and **foundry** to understand blockchain emulation for blackbox fuzzing.
+- build v1 of pure calldata decoder, however wasn't dynamic enough - example found **[here](https://twitter.com/HFVision/status/1593979103451189250)**.
+- *jtriley* helped me understand encoding dynaic types (somehow i forgot how it worked lmao), then built a v2 for my calldata decoder on 21/10/2022 that only requires the bytecode input (w/o knowledge of anything else) - example found **[here](https://twitter.com/HFVision/status/1594334760683597826)** (quite literally spending 10hrs straight on this to the point where my legs were hurting from sitting too much) - got a lot of interest and a few job offers from this (zk and building an evm on another blockchain).
+- On 21/10/2022, started diving into *jon becker*'s **[heimdall](https://github.com/HFVision/heimdall-rs)**, also have plans to learn **revm** and **foundry** to understand blockchain emulation for blackbox fuzzing. -->

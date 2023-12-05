@@ -1,6 +1,6 @@
-# Entering The Dark Forest
+<!-- # Entering The Dark Forest
 
-#### Oct 11, 2022 | By DeGatchi
+#### Oct 11, 2022 | By HFVision
 
 ## Intro
 
@@ -36,4 +36,4 @@ It's an undisputed fact that practically doing something connects the dots of pi
 
 ## Final
 
-The path of MEV is a gritty one. Without dedication and perseverance you have no chance with this field. You can't be half-arsed and expect to be profitable for an extended period of time or compete with other operators. However, it is an incredibly exciting environment that will surely challenge you. Keep at it, anon. Rise above. Have fun and don't get wiped out <3.
+The path of MEV is a gritty one. Without dedication and perseverance you have no chance with this field. You can't be half-arsed and expect to be profitable for an extended period of time or compete with other operators. However, it is an incredibly exciting environment that will surely challenge you. Keep at it, anon. Rise above. Have fun and don't get wiped out <3. -->

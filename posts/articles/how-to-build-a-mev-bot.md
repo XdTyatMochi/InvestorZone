@@ -1,6 +1,6 @@
-# How To Build a MEV Bot
+<!-- # How To Build a MEV Bot
 
-#### Sep 9, 2022 | By DeGatchi
+#### Sep 9, 2022 | By HFVision
 
 **_This article assumes you know the basics of what MEV are_**
 
@@ -105,4 +105,4 @@ There's a lot of work to be done when it comes to building a MEV bot. Even if yo
 
 This is my first article on programming, not so much the coding side, but still I think this will be of use to people trying to break into the MEV game. I learned about these concepts after a year of on-and-off researching and I want to help those that are struggling/have given up, similar to how I once was.
 
-Thanks for your time and I hope you found value in this!
+Thanks for your time and I hope you found value in this! -->

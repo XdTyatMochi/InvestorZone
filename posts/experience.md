@@ -1,4 +1,4 @@
-# Foreword
+<!-- # Foreword
 
 **_Disclaimer: I need to update the details of each section a bit more!_**
 
@@ -31,7 +31,7 @@ A curated list of all my experience in start-ups and established companies/daos.
 - Optimised code to become cleaner and more gas efficient.
 - Integrated margin trading position reduction via market and limit orders using [https://gmx.io/](GMX) (a Decentralized
   Perpetual Exchange).
-- Built a [merkle tree generator](https://github.com/DeGatchi/merkle-generator) and [transaction decoder](https://github.com/DeGatchi/tx-decoder) w/ Rust.
+- Built a [merkle tree generator](https://github.com/HFVision/merkle-generator) and [transaction decoder](https://github.com/HFVision/tx-decoder) w/ Rust.
 - Built fixed supply token and token presale contract utilising a merkle tree to claim filled buy orders from the backend.
 - Designed mainnet spot manager vaults utilising 1inch.
 
@@ -131,6 +131,6 @@ A curated list of all my experience in start-ups and established companies/daos.
 
 **_Accomplishments_**
 
-- Created a token with an airdrop distributor that sends tokens to each address that is added manually: (https://github.com/degatchi/xyzTokenVault).
+- Created a token with an airdrop distributor that sends tokens to each address that is added manually: (https://github.com/HFVision/xyzTokenVault).
 - Explored how IPFS works and how it's used in conjunction with the ERC-721 standard.
-- Researched foundational protocols at the technical level to understand the inner workings, including Aave, Uniswap, SushiSwap, RottenSwap and MakerDAO.
+- Researched foundational protocols at the technical level to understand the inner workings, including Aave, Uniswap, SushiSwap, RottenSwap and MakerDAO. -->

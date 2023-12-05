@@ -1,6 +1,6 @@
-# The Areas Of Web3 Development
+<!-- # The Areas Of Web3 Development
 
-#### Sep 13, 2022 | By DeGatchi
+#### Sep 13, 2022 | By HFVision
 
 There are so many sectors when it comes to blockchain it's somewhat hard to choose where you want to start. I like to think of it as an MMO, where there are different _classes_ or _roles_ that dictate how you play the game, to some degree. However, if you're like me you create multiple characters with different roles because you like to switch things up. You can apply the same concept to web3. Nonetheless, everything interconnects despite specialising in the different fields.
 
@@ -68,4 +68,4 @@ There are so many areas to learn and so many ideas to be built. If I were to do 
 
 Hopefully this article gives some insight into the development areas of web3 for you new folk attempting to jump into the wild-west of blockchain.
 
-Thanks for your time and I hope you found value in this!
+Thanks for your time and I hope you found value in this! -->

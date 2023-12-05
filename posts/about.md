@@ -1,13 +1,12 @@
-Hi, I'm DeGatchi. A 21 y/o self-taught anon dev w/ only a highschool education (no degree & not studying), living in Australia, that enjoys bringing ideas to life.
+Hi, I'm HFVision. A 21 y/o self-taught anon dev w/ only a highschool education (no degree & not studying), living in Australia, that enjoys bringing ideas to life.
 
 **I'm available to hire!**
 
-For any inquiries regarding contracting/hiring, please dm me on twitter **[@DeGatchi](https://twitter.com/DeGatchi)**.
+For any inquiries regarding contracting/hiring, please dm me on twitter **[@HFVision](https://twitter.com/HFVision)**.
 
 ## Index
 
 - **_`/about`_**: A brief overview.
-- **_`/projects`_**: A list of all the projects I've developed.
 - **_`/articles`_**: Technical write-ups that cover blockchain development topics.
 - **_`/career-log`_**: A bullet-point monthly log of my entire career progression.
 - **_`/experience`_**: A list of of all the projects I've been affiliated with.

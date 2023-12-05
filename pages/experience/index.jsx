@@ -8,7 +8,7 @@ export default function Experience() {
   return (
     <>
       <Head>
-        <title>DeGatchi | Experience</title>
+        <title>HFVision| Experience</title>
         <meta key="description" name="description" content="" />
       </Head>
       <Post mdx={<MarkdownContent />} />

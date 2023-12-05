@@ -57,7 +57,7 @@ export const MenuOuter = styled.div`
 export const Nav = styled.nav``;
 
 export const Span = styled.span`
-  color: #1a202c;
+  color: #C21E56;
   margin-right: 1em;
   font-weight: 520;
   text-decoration: underline;
@@ -70,7 +70,7 @@ export const Span = styled.span`
 `;
 
 export const Article = styled.article`
-  color: #1a202c;
+  color: #C21E56;
 `;
 
 export const ContentOuter = styled.div``;

@@ -40,9 +40,9 @@ A fully decentralised NFT platform on Fantom Opera that allows anyone to create 
 - Build time: 2 days
 - Contracts: 1
 - Tested: True
-- Repo(s): **Public**, https://github.com/DeGatchi/merkle-presale.
+- Repo(s): **Public**, https://github.com/HFVision/merkle-presale.
 
-A fundraising contract that emits events when users create a buy order, which is then filled in from the backend. After the sale's duration has finalised, a merkle tree is created using **_[merkle-tree-generator](https://github.com/DeGatchi/merkle-generator)_** and a root is set. Users are then able to claim their filled presale token orders and their USDC that wasn't used to fill their remaining orders.
+A fundraising contract that emits events when users create a buy order, which is then filled in from the backend. After the sale's duration has finalised, a merkle tree is created using **_[merkle-tree-generator](https://github.com/HFVision/merkle-generator)_** and a root is set. Users are then able to claim their filled presale token orders and their USDC that wasn't used to fill their remaining orders.
 
 ## ERC-20 Token
 
@@ -157,28 +157,28 @@ An advanced VM tool that _only_ requires bytecode to operate (e.g, calldata + co
 ## Merkle Tree Generator
 
 - Build time: 7 days.
-- Repo(s): **Public**, https://github.com/DeGatchi/merkle-generator.
+- Repo(s): **Public**, https://github.com/HFVision/merkle-generator.
 
 A practical generator that creates a merkle tree from nodes that support multiple data types in the initial hash instead of a single data type (e.g., address for a whitelist). Utilising efficient keccak256 hashing, mimicking openzeppelin's `MerkleProof.sol`, it can be used for any whitelist/restrictive blockchain action. Simply import your JSON file of values and watch it spit out a JSON output file for easy frontend integration.
 
 ## MEV Template
 
 - Build time: 1 week.
-- Repo(s): **Public**, https://github.com/DeGatchi/mev-template-rs.
+- Repo(s): **Public**, https://github.com/HFVision/mev-template-rs.
 
 A template to bootstrap MEV strategies with a simple boilerplate to build on top of. Create a new repo using the template then integrate the niche specifics of the strategy to get it running. It includes: mempool scanner + tx decoder, block monitoring, historic block function caller, simple discord alert system, abi binder abd uniswap v2 function calls.
 
 ## API Fetcher
 
 - Build time: 2 hours.
-- Repo(s): **Public**, https://github.com/DeGatchi/rust-api-fetcher.
+- Repo(s): **Public**, https://github.com/HFVision/rust-api-fetcher.
 
 A simple system that consumes and stores the data from the `https://rickandmortyapi.com/`.
 
 ## Transaction Decoder
 
 - Build time: 30 minutes.
-- Repo(s): **Public**, https://github.com/DeGatchi/tx-decoder.
+- Repo(s): **Public**, https://github.com/HFVision/tx-decoder.
 
 A simple but helpful system that uses transaction hash and a contract's ABI to decode the hash into one of the contract's calls (or Null), displaying the parameter names and inputs.
 

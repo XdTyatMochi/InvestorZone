@@ -7,7 +7,7 @@ export default function CareerLog() {
   return (
     <>
       <Head>
-        <title>DeGatchi | Career Log</title>
+        <title>HFVision| Career Log</title>
         <meta key="description" name="description" content="" />
       </Head>
       <Post mdx={<MarkdownContent />} />

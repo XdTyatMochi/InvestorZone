@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DeGatchi | Home</title>
+        <title>HFVision| Home</title>
         <meta key="description" name="description" content="" />
       </Head>
       <Post mdx={<MarkdownContent />} />

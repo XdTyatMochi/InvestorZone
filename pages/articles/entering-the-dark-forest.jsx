@@ -7,11 +7,11 @@ export default function TraversingTheDarkForest() {
   return (
     <>
       <Head>
-        <title>DeGatchi | Traversing The Dark Forest</title>
+        <title>HFVision| Traversing The Dark Forest</title>
         <meta
-          key="Learn about how to prepare to build MEV bots in crypto."
-          name="Entering The Dark Forest"
-          content="The dark forest is harsh environment. A void full of relentless hounds drooling to seize every opportunity that they smell. Without sufficient resources and knowledge, you're sure to get eaten alive. Stripped of your precious ETH. For any new adventurer inquisitive, allow me to pry open the doors into the shroud."
+          key=""
+          name="How Sohra Peak Capital Partners Outperformed the S&P 500 in Q3 2023"
+          content=""
         />
       </Head>
       <Post mdx={<MarkdownContent />} />
